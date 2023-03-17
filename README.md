@@ -4,8 +4,8 @@ I'm an IT student with a passion for front-end development and building applicat
 I love creating applications that are both visually appealing and functional, and I'm always looking for ways to improve my skills and learn new technologies.
 
 🚀 Skills
-   HTML
-   CSS
+###  HTML
+###  CSS
    JavaScript
    React
    Git
