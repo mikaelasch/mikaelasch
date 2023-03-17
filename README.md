@@ -25,7 +25,10 @@ I love creating applications that are both visually appealing and functional, an
 
 💻 Projects
 Here are some of the projects that I have worked on:
+ 
  [Haunder](https://github.com/mikaelasch/Haunder)
+ 
+ [Personal Trainer app](https://github.com/mikaelasch/PersonalTrainerApp)
 
  📚 Education
 Haaga-Helia University of Applied Sciences, Bachelor of Information Technology, 2024
