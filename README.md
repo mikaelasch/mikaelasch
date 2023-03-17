@@ -3,13 +3,13 @@
 I'm an IT student with a passion for front-end development and building applications using React. 
 I love creating applications that are both visually appealing and functional, and I'm always looking for ways to improve my skills and learn new technologies.
 
-🚀 Skills
+## 🚀 Skills
 -  HTML
 -  CSS
-   JavaScript
-   React
-   Git
-   Node.js
+-  JavaScript
+-  React
+-  Git
+-  Node.js
 
 💻 Projects
 Here are some of the projects that I have worked on:
