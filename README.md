@@ -25,7 +25,7 @@ I love creating applications that are both visually appealing and functional, an
 
 💻 Projects
 Here are some of the projects that I have worked on:
- [Contribution guidelines for this project](docs/CONTRIBUTING.md)
+ [Haunder](docs/Haunder.md)
 
  📚 Education
 Haaga-Helia University of Applied Sciences, Bachelor of Information Technology, 2024
