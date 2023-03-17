@@ -24,6 +24,7 @@ I love creating applications that are both visually appealing and functional, an
 
 
 💻 Projects
+
 Here are some of the projects that I have worked on:
  
  [Haunder](https://github.com/mikaelasch/Haunder) :dog:
