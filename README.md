@@ -10,9 +10,7 @@ I love creating applications that are both visually appealing and functional, an
    React
    Git
    Node.js
-   
-📃 Currently learning:
-    ![image](https://user-images.githubusercontent.com/98472283/225883274-576319c7-cb01-4e9e-bdad-b58ca081a249.png)
+
 💻 Projects
 Here are some of the projects that I have worked on:
 
