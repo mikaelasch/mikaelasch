@@ -3,6 +3,8 @@
 I'm an IT student with a passion for front-end development and building applications. 
 I love creating applications that are both visually appealing and functional, and I'm always looking for ways to improve my skills and learn new technologies.
 
+
+
  🚀 Skills
  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -23,8 +25,7 @@ I love creating applications that are both visually appealing and functional, an
 
 💻 Projects
 Here are some of the projects that I have worked on:
- 
-
+ [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
  📚 Education
 Haaga-Helia University of Applied Sciences, Bachelor of Information Technology, 2024
