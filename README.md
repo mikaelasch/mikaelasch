@@ -3,7 +3,7 @@
 I'm an IT student with a passion for front-end development and building applications using React. 
 I love creating applications that are both visually appealing and functional, and I'm always looking for ways to improve my skills and learn new technologies.
 
-## 🚀 Skills
+# 🚀 Skills
 -  HTML
 -  CSS
 -  JavaScript
@@ -11,17 +11,16 @@ I love creating applications that are both visually appealing and functional, an
 -  Git
 -  Node.js
 
-💻 Projects
+# 💻 Projects
+
 Here are some of the projects that I have worked on:
 
-Project 1 - Short description of the project.
-Project 2 - Short description of the project.
-Project 3 - Short description of the project.
 
-📚 Education
+
+# 📚 Education
 Haaga-Helia University of Applied Sciences, Bachelor of Information Technology, 2024
 
-📫 Contact
+# 📫 Contact
 Email: mikaela.schroder@gmail.com
 LinkedIn: https://www.linkedin.com/in/mikaelaschroder/
 
