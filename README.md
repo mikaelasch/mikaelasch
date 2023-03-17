@@ -26,11 +26,15 @@ I love creating applications that are both visually appealing and functional, an
 💻 Projects
 Here are some of the projects that I have worked on:
  
- [Haunder](https://github.com/mikaelasch/Haunder)
+ [Haunder](https://github.com/mikaelasch/Haunder) :dog:
+ The Tinder-app for dogs to help you find new buddies to your best friend. Still work in progress. Created with React Native, Expo Go and Google    Firestore.
  
- [Personal Trainer app](https://github.com/mikaelasch/PersonalTrainerApp)
-
+ [Personal Trainer app](https://github.com/mikaelasch/PersonalTrainerApp):muscle:
+ Finalwork for Front-end course.
+ 
+ 
  📚 Education
+ 
 Haaga-Helia University of Applied Sciences, Bachelor of Information Technology, 2024
 
  📫 Contact
