@@ -30,7 +30,9 @@ I love creating applications that are both visually appealing and functional, an
 Here are some of the projects that I have worked on:
  
  [Haunder](https://github.com/mikaelasch/Haunder) :dog:
- The Tinder-app for dogs to help you find new buddies to your best friend. Still work in progress. Created with React Native, Expo Go and Google    Firestore.
+The tinder app for dogs, find new buddies for your best friend. Created with React Native, Expo, Firebase Firestore, Storage and Authentication. This was my Final work for Mobileapplication-course at Haaga-Helia.
+
+
  
  [Personal Trainer app](https://github.com/mikaelasch/PersonalTrainerApp):muscle:
  Personal Trainer app to schedule appointments and add, edit or delete customers and trainings. Created with React. Finalwork for Front-end course
