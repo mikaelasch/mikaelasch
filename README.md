@@ -21,7 +21,8 @@ I love creating applications that are both visually appealing and functional, an
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 💻 Projects
@@ -32,7 +33,7 @@ Here are some of the projects that I have worked on:
  The Tinder-app for dogs to help you find new buddies to your best friend. Still work in progress. Created with React Native, Expo Go and Google    Firestore.
  
  [Personal Trainer app](https://github.com/mikaelasch/PersonalTrainerApp):muscle:
- Finalwork for Front-end course.
+ Personal Trainer app to schedule appointments and add, edit or delete customers and trainings. Created with React. Finalwork for Front-end course
  
  
  📚 Education
